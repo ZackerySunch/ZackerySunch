@@ -1,46 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sunch;Code+is+Life;Welcome+to+my+Zone" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20I'm%20Sunch&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
-<h1 align="center">你好 我是 Sunch 👋</h1>
-
 <p align="center">
-  <strong>我的官網是</strong><br/>
   <a href="https://sunch-ai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/sunch--ai.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white&color=black" alt="Official Website" />
+    <img src="https://img.shields.io/badge/Official_Site-sunch--ai.vercel.app-000?style=flat&logo=vercel&logoColor=white&color=black" height="25" alt="Official Website" />
   </a>
 </p>
 
-<br/>
+<br />
 
-<h3 align="center">🛠️ Languages I Use</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,ts,html,css,git,vscode,github&theme=dark" />
+  </a>
+</div>
 
-<br/>
+<br />
 
-<h3 align="center">📊 Account Data</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ZackerySunch?style=for-the-badge&logo=github&color=FFD700&labelColor=black" alt="Stars" />
+<h3 align="center">📊 GitHub Data</h3>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ZackerySunch?style=social" alt="Followers" />
   
-  <img src="https://img.shields.io/github/followers/ZackerySunch?style=for-the-badge&logo=github&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ZackerySunch?style=social" alt="Stars" />
   
-  <img src="https://img.shields.io/badge/Commits-Check_Graph-orange?style=for-the-badge&logo=github&labelColor=black" alt="Commits" />
-</p>
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=ZackerySunch&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="views" />
+</div>
+
+<br />
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/ZackerySunch/ZackerySunch/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ZackerySunch/ZackerySunch/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 20px;" />
 </div>
