@@ -25,18 +25,14 @@
 <br/>
 
 <h3 align="center">📊 Account Data</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZackerySunch&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ZackerySunch?style=for-the-badge&logo=github&color=FFD700&labelColor=black" alt="Stars" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackerySunch&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZackerySunch&theme=radical&hide_border=true" alt="streak" />
-</div>
-
-<br/>
+  <img src="https://img.shields.io/github/followers/ZackerySunch?style=for-the-badge&logo=github&color=blue&labelColor=black" alt="Followers" />
+  
+  <img src="https://img.shields.io/badge/Commits-Check_Graph-orange?style=for-the-badge&logo=github&labelColor=black" alt="Commits" />
+</p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
