@@ -37,14 +37,13 @@
 
 <br />
 
-<h3 align="center">🌇 Isometric Commit City</h3>
+
 <div align="center">
   <img src="https://github.com/ZackerySunch/ZackerySunch/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
 </div>
 
 <br />
 
-<h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
   <img src="https://github.com/ZackerySunch/ZackerySunch/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
