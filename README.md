@@ -4,7 +4,7 @@
 
 <br />
 
-<h3 align="center">🚀 Official Website</h3>
+<h3 align="center">Official Website</h3>
 <div align="center">
   <a href="https://sunch-ai.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_SUNCH--AI-Enter_The_Cyberpunk_World-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" height="40" alt="Official Website" />
@@ -13,7 +13,7 @@
 
 <br />
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,ts,nodejs,html,css,react,nextjs,tailwind,git,github,vscode,docker,linux,gcp,google,mysql,postman&theme=dark&perline=6" />
@@ -22,7 +22,7 @@
 
 <br />
 
-<h3 align="center">📊 Hacker Dashboard</h3>
+<h3 align="center">Dashboard</h3>
 <div align="center">
   <img src="https://img.shields.io/github/followers/ZackerySunch?style=for-the-badge&logo=github&color=FF0080&labelColor=black&label=Followers" alt="Followers" />
   
