@@ -6,7 +6,7 @@
 
 <h3 align="center">Official Website</h3>
 <div align="center">
-  <a href="https://sunch-ai.vercel.app" target="_blank">
+  <a href="https://sunch-ai.com" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_SUNCH--AI-Enter_The_Cyberpunk_World-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" height="40" alt="Official Website" />
   </a>
 </div>
