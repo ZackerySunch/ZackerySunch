@@ -22,21 +22,36 @@
 
 <br />
 
-<h3 align="center">Dashboard</h3>
+<h3 align="center">GitHub Analysis</h3>
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ZackerySunch?style=for-the-badge&logo=github&color=FF0080&labelColor=black&label=Followers" alt="Followers" />
-  
-  <img src="https://img.shields.io/github/stars/ZackerySunch?style=for-the-badge&logo=github&color=FFFF00&labelColor=black&label=Stars" alt="Stars" />
-  
-  <img src="https://komarev.com/ghpvc/?username=ZackerySunch&color=7928CA&style=for-the-badge&label=SYSTEM+TRAFFIC" alt="Views" />
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Status-System_Online-00FF00?style=for-the-badge&logo=github&labelColor=black" alt="Status" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZackerySunch&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackerySunch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=ZackerySunch&theme=radical&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 <br />
 
+<h3 align="center">Dashboard</h3>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ZackerySunch?style=for-the-badge&logo=github&color=FF0080&labelColor=black&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ZackerySunch?style=for-the-badge&logo=github&color=FFFF00&labelColor=black&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ZackerySunch&color=7928CA&style=for-the-badge&label=SYSTEM+TRAFFIC" alt="Views" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Status-System_Online-00FF00?style=for-the-badge&logo=github&labelColor=black" alt="Status" />
+</div>
+
+
+<br />
 
 <div align="center">
   <img src="https://github.com/ZackerySunch/ZackerySunch/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
