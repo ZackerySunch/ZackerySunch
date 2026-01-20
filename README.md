@@ -28,7 +28,7 @@
   
   <img src="https://img.shields.io/github/stars/ZackerySunch?style=for-the-badge&logo=github&color=FFFF00&labelColor=black&label=Stars" alt="Stars" />
   
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZackerySunch&count_bg=%2300FFFF&title_bg=%23101010&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ZackerySunch&color=7928CA&style=for-the-badge&label=SYSTEM+TRAFFIC" alt="Views" />
   
   <br/><br/>
   
